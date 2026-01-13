@@ -1,0 +1,20 @@
+Configs: {
+	SpawnConfig: {
+		DisplayName: Spawn Config
+
+		BaseMultiplier: {
+			Label: Base Multiplier
+			Tooltip: ""
+		}
+
+		IncreasePerBoss: {
+			Label: Increase Per Boss
+			Tooltip: ""
+		}
+
+		MaxMultiplierCap: {
+			Label: Max Multiplier Cap
+			Tooltip: ""
+		}
+	}
+}

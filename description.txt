@@ -1,0 +1,1 @@
+A Terraria Mod (tModLoader) that makes the mob spawn rate increase for each unique boss killed.
